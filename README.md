@@ -1,1 +1,1 @@
-# ajax-giphy-party
+# AJAX Giphy Party
