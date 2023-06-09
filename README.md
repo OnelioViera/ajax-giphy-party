@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# ajax-giphy-party
+# AJAX Giphy Party
 
 ![Alt text](giphy-img.jpg)
 =======
